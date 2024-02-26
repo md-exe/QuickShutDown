@@ -1,0 +1,7 @@
+G:\Work\VS_projects\QuickShutDown\bin\Release\QuickShutDown.exe.config
+G:\Work\VS_projects\QuickShutDown\bin\Release\QuickShutDown.exe
+G:\Work\VS_projects\QuickShutDown\bin\Release\QuickShutDown.pdb
+G:\Work\VS_projects\QuickShutDown\obj\Release\QuickShutDown.csproj.AssemblyReference.cache
+G:\Work\VS_projects\QuickShutDown\obj\Release\QuickShutDown.csproj.CoreCompileInputs.cache
+G:\Work\VS_projects\QuickShutDown\obj\Release\QuickShutDown.exe
+G:\Work\VS_projects\QuickShutDown\obj\Release\QuickShutDown.pdb
